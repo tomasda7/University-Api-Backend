@@ -7,6 +7,7 @@ namespace UniversityApiBackend.Models.DataModels
         [Required]
         [Key]
         public int Id { get; set; }
+        public User User { get; set; } = new User();
         public string? CreatedBy { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public string? UpdatedBy { get; set; }
