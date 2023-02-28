@@ -1,5 +1,5 @@
 # Replica el proyecto completo .Net 6 visto en los vídeos
-#Sesion 1
+# Sesion 1
  Asegúrate de crear las migraciones y actualizar la base de datos.
  
  Asegúrate de crear correctamente el diagrama del modelo de EntityFramework.
@@ -20,7 +20,7 @@
  
  Nivel (solo puede ser Básico, Intermedio o Avanzado para ello usa un enumerado).
  
- #Sesion 2
+ # Sesion 2
 Asegúrate de crear correctamente el diagrama del modelo de EntityFramework
 
 Asegúrate de crear las migraciones y actualizar la base de datos
