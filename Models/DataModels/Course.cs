@@ -21,7 +21,7 @@ namespace UniversityApiBackend.Models.DataModels
         public string? TargetPublic { get; set; }
         public string? Objectives { get; set; }
         public string? Requirements { get; set; }
-        public Level Levels { get; set; } = Level.Basic;
+        public Level Level { get; set; } = Level.Basic;
 
         [Required]
         public Chapter Chapter { get; set; } = new Chapter();
