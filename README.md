@@ -35,7 +35,7 @@ Crea los controllers necesarios para cada modelo
 
 Realiza pruebas desde Swagger para todas las peticiones CRUD de cada controller y asegúrate de su buen funcionamiento.
 
-#Sesíon 3
+# Sesíon 3
 Replica los ejemplos vistos en la sesión en un proyecto aparte
 
 Asegúrate de entender todos los ejemplos
